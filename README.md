@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zubaer-Alam
 - 👀 I’m interested in spirituality
-- 🌱 I’m currently learning DOCKER
+- 🌱 I’m currently learning devOps
 - 💞️ I’m looking to collaborate on the path to a better life
 - 📫 How to reach me : Just mail me to zobaeralam@iut-dhaka.edu
 
